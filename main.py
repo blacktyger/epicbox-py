@@ -46,7 +46,7 @@ class EpicboxServer:
     """
     Epicbox server class, used to manage communication workflow
     """
-    path_to_epicboxlib = "./epicboxlib"
+    path_to_epicboxlib = "src/epicboxlib"
     challenge = "7WUDtkSaKyGRUnQ22rE3QUXChV8DmA6NnunDYP4vheTpc"
 
     def __init__(self, version: str = settings['PROTOCOL_VERSION']):

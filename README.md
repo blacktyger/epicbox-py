@@ -1,4 +1,11 @@
 ## Python EpicBox implementation
+Experimental implementation of the epicbox transaction relay in Python
+
+Inspired by https://github.com/fastepic/epicboxnodejs
+
+![img.png](img.png)
+
+---
 
 ### Requirements
 - Ubuntu 20.04 / 22.04 
