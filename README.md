@@ -21,3 +21,10 @@ Inspired by https://github.com/fastepic/epicboxnodejs
 3. Configure `src/epicbox.toml` file
 4. Run instance
    `python main.py`
+
+---
+
+### Credits
+Created and managed by @blacktyg3r, thanks to @fastepic and the Epic Community.
+
+Contact: [Telegram](https://t.me/blacktyg3r).
