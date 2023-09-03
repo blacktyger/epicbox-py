@@ -25,6 +25,7 @@ Inspired by https://github.com/fastepic/epicboxnodejs
 ---
 
 ### Credits
-Created and managed by @blacktyg3r, thanks to @fastepic and the Epic Community.
+Created and managed by [@blacktyg3r](https://github.com/blacktyger), 
+thanks to [@fastepic](https://github.com/fastepic) and the Epic Community.
 
 Contact: [Telegram](https://t.me/blacktyg3r).
