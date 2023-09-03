@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f3d42051-49a1-4bcf-8e27-afc8c864cf5d" name="hetzner epicbox-py">
+        <fileTransfer rootFolder="/home/blacktyger/epicbox" accessType="SFTP" host="85.10.196.153" port="22" sshConfigId="6df1a772-1ddc-4639-8a3f-55ec6dae50c9" sshConfig="blacktyger@85.10.196.153:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
