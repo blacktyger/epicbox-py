@@ -11,6 +11,7 @@ Inspired by https://github.com/fastepic/epicboxnodejs
 - Ubuntu 20.04 / 22.04 
 - Python 3.11
 - Access to running instance of POSTGRESQL database
+- RUST crate for validating data (binary included in this repo `src/epicboxlib`)
 
 ### Installation
 1. Create virtual environment
@@ -18,7 +19,7 @@ Inspired by https://github.com/fastepic/epicboxnodejs
     - `source env/bin/activate`
 2. Install requirements
    - `pip install -r requirements.txt`
-3. Set permissions to `src/epicboxlib`
+3. Set permissions to `src/epicboxlib` rust library
    - `sudo chmod a+rwx src/epicboxlib`
 4. Configure `src/epicbox.toml` file
 5. Run instance
