@@ -18,8 +18,8 @@ Inspired by https://github.com/fastepic/epicboxnodejs
     - `source env/bin/activate`
 2. Install requirements
    - `pip install -r requirements.txt`
-3. Set permissions to `epicboxlib`
-   - `sudo chmod a+rwx src\epicboxlib`
+3. Set permissions to `src/epicboxlib`
+   - `sudo chmod a+rwx src/epicboxlib`
 4. Configure `src/epicbox.toml` file
 5. Run instance
    `python main.py`
